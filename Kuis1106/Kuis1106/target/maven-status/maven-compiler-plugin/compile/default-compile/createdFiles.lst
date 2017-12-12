@@ -1,0 +1,9 @@
+com\syarif\Kuis1106\entity\Category.class
+com\syarif\Kuis1106\Kuis1106Application.class
+com\syarif\Kuis1106\repo\CategoryRepo.class
+com\syarif\Kuis1106\controller\ProductController.class
+com\syarif\Kuis1106\controller\CategoryController.class
+com\syarif\Kuis1106\repo\ProductRepo.class
+com\syarif\Kuis1106\entity\Product.class
+com\syarif\Kuis1106\service\ProductService.class
+com\syarif\Kuis1106\service\CategoryService.class
